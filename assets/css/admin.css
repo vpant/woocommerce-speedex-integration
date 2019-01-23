@@ -1,0 +1,48 @@
+.wc_speedex_cep_voucher_box li input:not([type="checkbox"]), .wc_speedex_cep_voucher_box li select, .wc_speedex_cep_voucher_box li textarea
+{
+	width: 98%;
+}
+
+.wc_speedex_cep_voucher_box
+{
+	border: 1px solid #e6e6e6;
+	padding: 10px;
+	margin-bottom: 12px;
+}
+
+.wc_speedex_cep_voucher_box .totals 
+{
+    margin-top: 0;
+}
+
+.speedex_cep_error_message, .speedex_cep_success_message {
+	margin: 10px 0px;
+    padding:12px;
+}
+
+.speedex_cep_error_message {
+	color: #D8000C;
+    background-color: #FFD2D2;
+ 
+}
+
+.speedex_cep_success_message {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+}
+
+.manually_create_voucher
+{
+	width: 100%;
+	font-weight: bold;
+}
+
+.advanced-options-modal-content {
+	text-align: left;
+	background: #fff;
+	padding: 2em;
+}
+
+.advanced-options-modal-content textarea {
+	width: 100%;
+}

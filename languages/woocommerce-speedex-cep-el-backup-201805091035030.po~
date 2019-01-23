@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-speedex-cep\n"
+"POT-Creation-Date: 2018-05-09 00:30+0300\n"
+"PO-Revision-Date: 2018-05-08 21:33+0000\n"
+"Last-Translator: Vasilis Pantelis <bpantelis10@gmail.com>\n"
+"Language-Team: Ελληνικά\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../../../xampp/htdocs/miaforakaienankairo/wp-"
+"content/plugins/woocommerce-speedex-cep\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: "
+
+#: includes/class-woocommerce-speedex-cep-settings.php:24
+#: includes/class-woocommerce-speedex-cep-settings.php:142
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:495
+msgid "Speedex"
+msgstr "Speedex"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:25
+#: includes/class-woocommerce-speedex-cep-settings.php:152
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:40
+msgid "Settings page for Speedex"
+msgstr "Σελίδα ρυθμίσεων για Speedex"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:46
+msgid "Username is provided by Speedex."
+msgstr "Το όνομα χρήστη παρέχεται από την Speedex."
+
+#: includes/class-woocommerce-speedex-cep-settings.php:47
+msgid "Username:"
+msgstr "Όνομα χρήστη:"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:52
+msgid "Password is provided by Speedex."
+msgstr "Ο κωδικός παρέχεται από την Speedex."
+
+#: includes/class-woocommerce-speedex-cep-settings.php:53
+msgid "Password:"
+msgstr "Κωδικός πρόσβασης:"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:58
+msgid ""
+"Customer ID is provided by Speedex. Default value for test mode is: ΠΕ145031"
+msgstr ""
+"Ο κωδικός πελάτη παρέχεται από την Speedex. Η προκαθορισμένη τιμή για το "
+"δοκιμαστικό περιβάλλον είναι: ΠΕ145031"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:59
+msgid "Customer ID:"
+msgstr "Κωδικός πελάτη:"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:64
+msgid ""
+"Agreement ID is provided by Speedex. Default value for test mode is: 88499"
+msgstr ""
+"Ο κωδικός συμφωνίας παρέχεται από την Speedex. Η προκαθορισμένη τιμή για το "
+"δοκιμαστικό περιβάλλον είναι: 88499"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:65
+msgid "Agreement ID:"
+msgstr "Κωδικός συμφωνίας:"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:70
+msgid ""
+"Branch ID is provided by Speedex. Default value for test mode is: 1000;0101"
+msgstr ""
+"Η πληροφορία Branch ID παρέχεται από την Speedex. Η προκαθορισμένη τιμή για "
+"το δοκιμαστικό περιβάλλον είναι: 1000;0101"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:71
+msgid "Branch ID:"
+msgstr "Branch ID:"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:76
+msgid "Test Mode:"
+msgstr "Δοκιμαστικό περιβάλλον:"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:83
+msgid "Select in which shipping methods voucher creation will be available."
+msgstr ""
+"Επιλέξτε σε ποιες μεθόδους αποστολής θα είναι διαθέσιμη η δημιουργία voucher."
+
+#: includes/class-woocommerce-speedex-cep-settings.php:83
+msgid "Shipping methods:"
+msgstr "Μέθοδοι αποστολής:"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:102
+msgid ""
+"Select the order statuses that will create a voucher. Only one voucher can "
+"autocreated per order. If more than one are needed you need to create them "
+"manually."
+msgstr ""
+"Επιλέξτε τις καταστάσεις παραγγελίας που, αυτόματα, θα δημιουργούν voucher. "
+"Μόνο ένα voucher μπορεί να δημιουργηθεί αυτόματα ανά παραγγελία. Εάν "
+"επιθυμείτε περισσότερα από ένα θα πρέπει να δημιουργήσετε τα επιπλέον "
+"vouchers χειροκίνητα."
+
+#: includes/class-woocommerce-speedex-cep-settings.php:102
+msgid "Order statuses for autocreating vouchers:"
+msgstr "Κατάσταση παραγγελίας για αυτόματη δημιουργία voucher:"
+
+#: includes/class-woocommerce-speedex-cep-settings.php:162
+msgid "Download voucher list"
+msgstr "Λήψη τις λίστας voucher"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:47
+msgid "Download failed. An error occured."
+msgstr "Η λήψη απέτυχε. Ένα σφάλμα προέκυψε."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:48
+msgid "An network error occured."
+msgstr "Προέκυψε πρόβλημα με το δίκτυο."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:49
+msgid "Voucher list failed to download because the pdf is invalid."
+msgstr "Η λήψη της λίστας voucher απέτυχε επειδή το pdf δεν ήταν έγκυρο."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:104
+#, php-format
+msgid ""
+"Voucher summary list pdf failed to download. Error Code: %s Error Message: %s"
+msgstr ""
+"Η λήψη της λίστας voucher απέτυχε. Κωδικός σφάλματος: %s Μήνυμα σφάλματος: %s"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:140
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:296
+msgid "The page will refresh shortly."
+msgstr "Η σελίδα σύντομα θα ανανεωθεί."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:188
+#, php-format
+msgid "Voucher's pdf file failed to download. Error Code: %s Error Message: %s"
+msgstr ""
+"Το pdf voucher αρχείο απέτυχε να ληφθεί. Κωδικός σφάλματος: %s Μήνυμα "
+"σφάλματος: %s"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:202
+msgid "No vouchers found for this voucher code."
+msgstr "Δεν βρέθηκε κανένα voucher με αυτό το κωδικό."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:236
+msgid "Cannot cancel the voucher. An error occured."
+msgstr "Η ακύρωση του voucher δεν ήταν εφικτή λόγο σφάλματος."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:276
+msgid ""
+"Speedex respond that shipment does not exist. This voucher got deleted from "
+"this order. The page will refresh shortly."
+msgstr ""
+"Η Speedex απάντησε ότι ο κωδικός δεν υπάρχει. Αυτό το voucher διαγράφηκε. Η "
+"σελίδα θα ανανεωθεί σύντομα."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:282
+#, php-format
+msgid "Could not cancel Voucher. Error Code: %s Error Message: %s"
+msgstr ""
+"Η ακύρωση του Voucher δεν ήταν εφικτή. Κωδικός σφάλματος: %s Μήνυμα "
+"σφάλματος: %s"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:290
+msgid "This voucher is successfully deleted. The page will refresh shortly."
+msgstr "Αυτό το voucher διαγράφηκε επιτυχώς. Η σελίδα σύντομα θα ανανεωθεί."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:311
+msgid "This post is not a valid shop order."
+msgstr "Αυτό το post δεν είναι μία έγκυρη παραγγελία."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:327
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:517
+msgid ""
+"Voucher creation is not available for the selected shipping method of this "
+"order."
+msgstr ""
+"Η δημιουργία voucher δεν είναι διαθέσιμη για την μέθοδο αποστολής της "
+"παρούσας παραγγελίας."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:356
+#, php-format
+msgid "Order ID: %s"
+msgstr "Αριθμός Παραγγελίας: %s"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:381
+#, php-format
+msgid "Voucher creation failed. Error Code: %s Error Message: %s"
+msgstr ""
+"Η δημιουργία voucher απέτυχε. Κωδικός σφάλματος: %s Μήνυμα σφάλματος: %s"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:398
+#, php-format
+msgid "The newly created voucher code is: %s"
+msgstr "Ο κωδικός του νέου voucher είναι: %s"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:417
+msgid "Voucher creation succeeded."
+msgstr "Η δημιουργία voucher ήταν επιτυχής."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:437
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:447
+#, php-format
+msgid ""
+"Username or password are not valid. Please update them with valid ones in "
+"the <a href=\"%s\">settings</a> page."
+msgstr ""
+"Το όνομα χρήστη ή ο κωδικός πρόσβασης δεν είναι έγκυρα. Παρακαλώ ενημερώστε "
+"τα στην σελίδα  <a href=\"%s\">ρυθμίσεων</a> του πρόσθετου. "
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:453
+#, php-format
+msgid ""
+"An error occured while requesting for session ID. Error Code: %s, Error "
+"Message: %s"
+msgstr ""
+"Προέκυψε σφάλμα κατά την αίτηση για αριθμό συνόδου. Κωδικός σφάλματος: %s, "
+"Μήνυμα σφάλματος: %s"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:463
+msgid "Request for session id was successful"
+msgstr "Η αίτηση για αριθμό συνόδου ήταν επιτυχής"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:524
+msgid "No vouchers exists for this order."
+msgstr "Δεν υπάρχουν vouchers για αυτή την παραγγελία."
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:527
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:555
+msgid "Create a New Voucher"
+msgstr "Δημιουργία Voucher"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:543
+#, php-format
+msgid "Voucher: %s"
+msgstr "Voucher: %s"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:546
+msgid "Cancel Voucher"
+msgstr "Ακύρωση Voucher"
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:549
+msgid "Download Voucher"
+msgstr "Λήψη Voucher"
+
+#: woocommerce-speedex-cep.php:51
+#, php-format
+msgid ""
+"Woocommerce Speedex CEP Plugin requires WooCommerce to be installed and "
+"active. You can download %s here."
+msgstr ""
+"Το πρόσθετο Woocommerce Speedex CEP απαιτεί να είναι εγκατεστημένο και "
+"ενεργοποιημένο το Woocommerce. Μπορείτε να το κατεβάσετε %s εδώ."

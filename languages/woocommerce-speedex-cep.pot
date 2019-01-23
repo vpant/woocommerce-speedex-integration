@@ -1,0 +1,274 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-22 00:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: woocommerce-speedex-cep.php:51
+#, php-format
+msgid ""
+"Woocommerce Speedex CEP Plugin requires WooCommerce to be installed and "
+"active. You can download %s here."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:24
+#: includes/class-woocommerce-speedex-cep-settings.php:150
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:566
+msgid "Speedex"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:25
+#: includes/class-woocommerce-speedex-cep-settings.php:160
+msgid "Settings"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:40
+msgid "Settings page for Speedex"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:47
+msgid "Username:"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:47
+msgid "Username is provided by Speedex."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:53
+msgid "Password:"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:53
+msgid "Password is provided by Speedex."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:59
+msgid "Customer ID:"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:59
+msgid ""
+"Customer ID is provided by Speedex. Default value for test mode is: ΠΕ145031"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:65
+msgid "Agreement ID:"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:65
+msgid ""
+"Agreement ID is provided by Speedex. Default value for test mode is: 88499"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:71
+msgid "Branch ID:"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:71
+msgid ""
+"Branch ID is provided by Speedex. Default value for test mode is: 1000;0101"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:76
+msgid "Test Mode:"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:84
+msgid "Shipping methods:"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:84
+msgid "Select in which shipping methods voucher creation will be available."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:104
+msgid "Order statuses for autocreating vouchers:"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:104
+msgid ""
+"Select the order statuses that will create a voucher. Only one voucher can "
+"autocreated per order. If more than one are needed you need to create them "
+"manually."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-settings.php:170
+msgid "Download voucher list"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:47
+msgid "Download failed. An error occured."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:48
+msgid "An network error occured."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:49
+msgid "Voucher list failed to download because the pdf is invalid."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:106
+#, php-format
+msgid ""
+"Voucher summary list pdf failed to download. Error Code: %s Error Message: %s"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:142
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:300
+msgid "The page will refresh shortly."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:190
+#, php-format
+msgid "Voucher's pdf file failed to download. Error Code: %s Error Message: %s"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:203
+msgid "No vouchers found for this voucher code."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:237
+msgid "Cannot cancel the voucher. An error occured."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:277
+msgid ""
+"Speedex respond that shipment does not exist. This voucher got deleted from "
+"this order. The page will refresh shortly."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:285
+#, php-format
+msgid "Could not cancel Voucher. Error Code: %s Error Message: %s"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:294
+msgid "This voucher is successfully deleted. The page will refresh shortly."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:350
+msgid "This post is not a valid shop order."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:366
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:588
+msgid ""
+"Voucher creation is not available for the selected shipping method of this "
+"order."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:398
+#, php-format
+msgid "Order ID: %s"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:409
+msgid "Consignee Name"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:412
+msgid "Consignee Address"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:415
+msgid "Consignee Zip Code"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:418
+msgid "Consignee City or Town"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:421
+msgid "Consignee Country"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:424
+msgid "Consignee Telephone"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:431
+#, php-format
+msgid "%s is a mandatory field."
+msgid_plural "%s are mandatory fields"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:453
+#, php-format
+msgid "Voucher creation failed. Error Code: %s Error Message: %s"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:469
+#, php-format
+msgid "The newly created voucher code is: %s"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:488
+msgid "Voucher creation succeeded."
+msgid_plural "Vouchers creation succeeded."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:508
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:518
+#, php-format
+msgid ""
+"Username or password are not valid. Please update them with valid ones in "
+"the <a href=\"%s\">settings</a> page."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:524
+#, php-format
+msgid ""
+"An error occured while requesting for session ID. Error Code: %s, Error "
+"Message: %s"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:534
+msgid "Request for session id was successful"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:595
+msgid "No vouchers exists for this order."
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:598
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:626
+msgid "Create a New Voucher"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:614
+#, php-format
+msgid "Voucher: %s"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:617
+msgid "Cancel Voucher"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:620
+msgid "Download Voucher"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:635
+msgid "Add comments to the new voucher"
+msgstr ""
+
+#: includes/class-woocommerce-speedex-cep-speedex-interface.php:636
+msgid "Add the comment you wish to be included in the voucher..."
+msgstr ""
